@@ -1,0 +1,44 @@
+DR. ANANYA KRISHNAN
+ananya.krishnan@university.edu | +91-9876001234 | linkedin.com/in/ananyakrishnan
+Department of Management Studies, IIT Delhi, New Delhi - 110016
+
+SUMMARY
+Assistant Professor in Business Analytics with 7 years of teaching and research experience. Specializes in machine learning applications in healthcare management and HR analytics. Published 12 peer-reviewed papers with 150+ citations. PhD from IIT Bombay.
+
+EDUCATION
+Ph.D. in Management (Business Analytics)
+IIT Bombay | 2013-2017 | Thesis: Predictive Analytics for Patient Readmission in Indian Hospitals
+
+MBA (Operations and Systems)
+IIT Bombay | 2011-2013 | Gold Medalist | CGPA: 9.1/10
+
+B.E. in Computer Science
+DTU Delhi | 2007-2011 | CGPA: 8.7/10
+
+TEACHING EXPERIENCE
+
+Assistant Professor | IIT Delhi | Department of Management Studies | 2019-Present
+- Designed and delivered 3 graduate courses: Business Analytics, Applied Machine Learning for Managers, HR Analytics
+- Taught 120+ MBA students per semester with average teaching rating of 4.6/5.0
+- Mentored 8 PhD students and supervised 25+ MBA dissertations
+- Developed case studies on analytics adoption in Indian healthcare, used by 3 partner institutions
+
+Visiting Faculty | IIM Kozhikode | 2017-2019
+- Delivered Executive Education programs in Data Science for 200+ industry professionals
+- Designed online learning modules for Business Analytics certification program
+
+RESEARCH
+
+Publications (Selected - 12 total, 150+ citations, h-index: 6)
+1. Krishnan, A. & Mehta, R. (2023). ML-based Prediction of Hospital Readmission. Journal of Healthcare Management, 45(2), 112-128. [25 citations]
+2. Krishnan, A. (2022). HR Analytics for Talent Retention: A Meta-Analysis. International Journal of HRM, 38(4), 567-589. [18 citations]
+3. Krishnan, A. et al. (2021). Digital Transformation in Indian SMEs. Vikalpa, 46(3), 145-162. [22 citations]
+
+GRANTS AND FUNDING
+- Principal Investigator: SERB-funded project on AI in Healthcare Analytics (25 lakhs, 2021-2023)
+- Co-PI: DST-funded project on HR Analytics in Indian IT Sector (12 lakhs, 2019-2021)
+
+SKILLS
+Research: Statistical Analysis, SEM, Regression, Meta-Analysis, Qualitative Methods
+Software: R, Python, SPSS, Stata, MATLAB, AMOS, NVivo, LaTeX
+Teaching: Case Method, Blended Learning, Flipped Classroom, Online Pedagogy

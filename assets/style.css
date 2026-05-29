@@ -1,0 +1,255 @@
+/* ═══════════════════════════════════════════════════════════════════════════
+   CV-Craft-Studio — Saffron Professional Theme
+   Clear contrast, no text-obscuring gradients, local/offline product feel.
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500&display=swap');
+
+:root {
+  --bg-base: #FFFDF8;
+  --bg-card: #FFFFFF;
+  --bg-raised: #FFF4E6;
+  --bg-hover: #FFE7C2;
+  --border: #F3D4B0;
+  --border-strong: #E7B77C;
+  --text-primary: #1F2937;
+  --text-secondary: #4B5563;
+  --text-muted: #6B7280;
+  --saffron: #FF9933;
+  --deep-saffron: #E67300;
+  --green: #15803D;
+  --amber: #B45309;
+  --red: #B91C1C;
+  --blue: #2563EB;
+  --radius: 12px;
+  --shadow: 0 8px 28px rgba(180, 83, 9, 0.08);
+}
+
+html, body, [class*="css"] {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif !important;
+  -webkit-font-smoothing: antialiased !important;
+  color: var(--text-primary) !important;
+}
+
+.stApp {
+  background: var(--bg-base) !important;
+}
+
+.main .block-container {
+  padding: 1.5rem 2.25rem 3rem !important;
+  max-width: 1420px !important;
+}
+
+/* Readable text defaults */
+.stMarkdown, .stMarkdown p, .stText, .stText p, p, span, div, li {
+  color: var(--text-primary) !important;
+}
+.stMarkdown h1, h1 { color: var(--deep-saffron) !important; font-weight: 850 !important; letter-spacing: -0.5px !important; }
+.stMarkdown h2, h2 { color: var(--deep-saffron) !important; font-weight: 760 !important; }
+.stMarkdown h3, h3 { color: var(--text-primary) !important; font-weight: 700 !important; }
+.stMarkdown h4, h4 { color: var(--text-primary) !important; font-weight: 650 !important; }
+.stMarkdown strong { color: var(--text-primary) !important; }
+.stMarkdown em { color: var(--text-secondary) !important; }
+.stMarkdown code, code {
+  color: var(--deep-saffron) !important;
+  background: #FFF1DB !important;
+  border: 1px solid var(--border) !important;
+  border-radius: 6px !important;
+  padding: 1px 5px !important;
+}
+
+/* Sidebar */
+[data-testid="stSidebar"] {
+  background: #FFF7EC !important;
+  border-right: 1px solid var(--border) !important;
+}
+[data-testid="stSidebar"] * {
+  color: var(--text-primary) !important;
+}
+[data-testid="stSidebar"] hr {
+  border-color: var(--border) !important;
+}
+
+/* Labels and help text */
+label, [data-testid="stWidgetLabel"], [data-testid="stWidgetLabel"] p,
+.stTextInput > label, .stTextArea > label, .stSelectbox > label,
+.stRadio > label, .stCheckbox > label, .stNumberInput > label,
+.stFileUploader > label, .stSlider > label, .stDateInput > label,
+.stMultiSelect > label {
+  color: var(--text-secondary) !important;
+  font-weight: 600 !important;
+  font-size: 13.5px !important;
+}
+.stCaption, [data-testid="stCaptionContainer"], [data-testid="stCaption"] {
+  color: var(--text-muted) !important;
+}
+
+/* Inputs */
+.stTextInput > div > div > input,
+.stNumberInput > div > div > input,
+.stDateInput > div > div > input,
+.stTextArea > div > div > textarea,
+.stSelectbox [data-baseweb="select"] > div,
+.stMultiSelect [data-baseweb="select"] > div {
+  background: var(--bg-card) !important;
+  border: 1px solid var(--border) !important;
+  border-radius: var(--radius) !important;
+  color: var(--text-primary) !important;
+  box-shadow: none !important;
+}
+.stTextInput > div > div > input:focus,
+.stNumberInput > div > div > input:focus,
+.stTextArea > div > div > textarea:focus {
+  border-color: var(--saffron) !important;
+  box-shadow: 0 0 0 3px rgba(255,153,51,0.18) !important;
+  outline: none !important;
+}
+.stTextInput input::placeholder, .stTextArea textarea::placeholder {
+  color: #9CA3AF !important;
+}
+
+[data-baseweb="popover"], [data-baseweb="menu"] {
+  background: var(--bg-card) !important;
+  border: 1px solid var(--border) !important;
+  border-radius: var(--radius) !important;
+  box-shadow: var(--shadow) !important;
+}
+[data-baseweb="menu"] li, [data-baseweb="menu"] [role="option"] {
+  color: var(--text-primary) !important;
+  background: var(--bg-card) !important;
+}
+[data-baseweb="menu"] li:hover, [data-baseweb="menu"] [role="option"]:hover {
+  background: var(--bg-hover) !important;
+}
+.stMultiSelect [data-baseweb="tag"] {
+  background: #FFF1DB !important;
+  border: 1px solid var(--border-strong) !important;
+  color: var(--deep-saffron) !important;
+  border-radius: 20px !important;
+}
+
+/* Buttons: solid saffron, high contrast */
+.stButton > button {
+  background: var(--saffron) !important;
+  color: #111827 !important;
+  border: 1px solid #E67300 !important;
+  border-radius: var(--radius) !important;
+  font-weight: 750 !important;
+  font-size: 14px !important;
+  padding: 0.62rem 1.1rem !important;
+  box-shadow: 0 4px 14px rgba(255,153,51,0.22) !important;
+  transition: transform 0.18s ease, box-shadow 0.18s ease, background 0.18s ease !important;
+}
+.stButton > button:hover {
+  background: var(--deep-saffron) !important;
+  color: #FFFFFF !important;
+  transform: translateY(-1px) !important;
+  box-shadow: 0 7px 20px rgba(230,115,0,0.25) !important;
+}
+.stButton > button[kind="secondary"] {
+  background: var(--bg-card) !important;
+  border: 1px solid var(--border-strong) !important;
+  color: var(--text-primary) !important;
+  box-shadow: none !important;
+}
+.stDownloadButton > button {
+  background: var(--green) !important;
+  color: #FFFFFF !important;
+  border: 1px solid #166534 !important;
+  border-radius: var(--radius) !important;
+  font-weight: 750 !important;
+}
+.stDownloadButton > button:hover {
+  background: #166534 !important;
+  color: #FFFFFF !important;
+}
+
+/* Metrics and cards */
+[data-testid="stMetric"] {
+  background: var(--bg-card) !important;
+  border: 1px solid var(--border) !important;
+  border-radius: var(--radius) !important;
+  padding: 16px !important;
+  box-shadow: var(--shadow) !important;
+}
+[data-testid="stMetricLabel"], [data-testid="stMetricLabel"] p {
+  color: var(--text-muted) !important;
+  text-transform: uppercase !important;
+  letter-spacing: .7px !important;
+  font-size: 12px !important;
+}
+[data-testid="stMetricValue"], [data-testid="stMetricValue"] div {
+  color: var(--deep-saffron) !important;
+  font-weight: 850 !important;
+}
+
+/* Tabs */
+.stTabs [data-baseweb="tab-list"] {
+  gap: 6px;
+  border-bottom: 1px solid var(--border) !important;
+}
+.stTabs [data-baseweb="tab"] {
+  background: var(--bg-card) !important;
+  border: 1px solid var(--border) !important;
+  border-bottom: none !important;
+  border-radius: 10px 10px 0 0 !important;
+  color: var(--text-secondary) !important;
+  font-weight: 650 !important;
+}
+.stTabs [aria-selected="true"] {
+  background: var(--bg-raised) !important;
+  color: var(--deep-saffron) !important;
+  border-top: 3px solid var(--saffron) !important;
+}
+
+/* Expanders, alerts, dataframes */
+.streamlit-expanderHeader, [data-testid="stExpander"] summary {
+  background: var(--bg-card) !important;
+  color: var(--text-primary) !important;
+  border: 1px solid var(--border) !important;
+  border-radius: var(--radius) !important;
+  font-weight: 700 !important;
+}
+[data-testid="stExpander"] details {
+  border: 1px solid var(--border) !important;
+  border-radius: var(--radius) !important;
+  background: var(--bg-card) !important;
+}
+[data-testid="stAlert"] {
+  border-radius: var(--radius) !important;
+  border: 1px solid var(--border) !important;
+}
+[data-testid="stAlert"] * { color: var(--text-primary) !important; }
+.stDataFrame, [data-testid="stDataFrame"] {
+  border: 1px solid var(--border) !important;
+  border-radius: var(--radius) !important;
+  overflow: hidden !important;
+}
+
+/* File uploader */
+[data-testid="stFileUploader"] section {
+  background: var(--bg-card) !important;
+  border: 1.5px dashed var(--border-strong) !important;
+  border-radius: var(--radius) !important;
+}
+
+/* Progress */
+.stProgress > div > div > div > div {
+  background: var(--saffron) !important;
+}
+
+/* Code blocks */
+.stCodeBlock, pre {
+  background: #FFF8ED !important;
+  border: 1px solid var(--border) !important;
+  border-radius: var(--radius) !important;
+  color: var(--text-primary) !important;
+}
+
+/* Light separators */
+hr { border-color: var(--border) !important; }
+
+@media (max-width: 768px) {
+  .main .block-container { padding: 1rem !important; }
+  h1 { font-size: 1.65rem !important; }
+}

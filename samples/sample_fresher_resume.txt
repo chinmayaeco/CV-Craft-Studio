@@ -1,0 +1,40 @@
+PRIYA SHARMA
+priya.sharma@email.com | +91-9876543210 | linkedin.com/in/priyasharma | github.com/priyasharma
+Mumbai, Maharashtra, India
+
+SUMMARY
+Recent B.Tech Computer Science graduate from NIT Mumbai with strong foundation in data analysis, Python programming, and machine learning. Seeking entry-level data analyst position where I can apply analytical skills to drive business insights.
+
+EDUCATION
+B.Tech in Computer Science and Engineering
+National Institute of Technology, Mumbai | 2020-2024
+CGPA: 8.4/10 | Relevant Coursework: Machine Learning, Database Management, Statistics
+
+SKILLS
+Technical Skills: Python, SQL, Excel, Tableau, Pandas, NumPy, Matplotlib, Scikit-learn, Power BI
+Analytical Skills: Data Analysis, Statistical Analysis, Data Visualization, Machine Learning
+Soft Skills: Communication, Teamwork, Problem-solving, Presentation
+
+PROJECTS
+
+Sales Forecasting using Machine Learning | Python, Scikit-learn, Pandas | 2024
+- Analyzed 50,000+ historical sales records to identify seasonal trends and demand patterns
+- Built Random Forest regression model achieving 87% prediction accuracy
+- Developed interactive dashboard using Matplotlib reducing reporting time by 3 hours/week
+
+Customer Churn Analysis | SQL, Python, Tableau | 2023
+- Queried and cleaned dataset of 25,000 customer records from PostgreSQL database
+- Identified top 5 churn drivers using logistic regression analysis
+- Created Tableau dashboard adopted by marketing team for retention campaign targeting
+
+CERTIFICATIONS
+- Google Data Analytics Professional Certificate | Coursera | 2023
+- SQL for Data Science | Coursera | 2023
+
+ACHIEVEMENTS
+- Ranked in top 10% of graduating class (CGPA 8.4/10)
+- Winner of college Data Hackathon 2023 (team of 4)
+- Published research paper on ML-based fraud detection at ICSE 2024
+
+LANGUAGES
+English (Fluent), Hindi (Native), Marathi (Conversational)

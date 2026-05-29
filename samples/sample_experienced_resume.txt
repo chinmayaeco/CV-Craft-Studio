@@ -1,0 +1,42 @@
+RAHUL MEHTA
+rahul.mehta@email.com | +91-9988776655 | linkedin.com/in/rahulmehta | Bangalore, India
+
+PROFESSIONAL SUMMARY
+Data Analyst with 5 years of experience turning complex datasets into actionable business insights across BFSI and e-commerce sectors. Expert in SQL, Python, Power BI, and statistical modeling. Proven track record of reducing reporting time by 40% and improving model accuracy by 15%.
+
+EXPERIENCE
+
+Senior Data Analyst | Infosys Limited | Bangalore | June 2021 - Present
+- Analyzed 2M+ customer transaction records monthly using SQL and Python, identifying fraud patterns saving $500K annually
+- Developed automated Power BI dashboards for 15+ KPIs used by C-suite for strategic decisions
+- Led team of 4 junior analysts, conducting weekly code reviews and mentoring sessions
+- Reduced data pipeline processing time by 35% by optimizing ETL workflows in Apache Airflow
+- Presented monthly insights to 25+ stakeholders including VP Finance and Head of Risk
+
+Data Analyst | Flipkart | Bangalore | July 2019 - May 2021
+- Analyzed customer purchase behavior from 10M+ records to identify cross-sell opportunities increasing revenue by 8%
+- Built recommendation engine using collaborative filtering improving CTR by 22%
+- Designed A/B testing framework for 12 product features, reducing decision time from 2 weeks to 3 days
+- Created and maintained 20+ automated SQL reports reducing manual reporting effort by 12 hours/week
+
+EDUCATION
+MBA in Business Analytics
+IIM Ahmedabad | 2017-2019 | GPA: 3.7/4.0
+
+B.Com (Hons)
+St. Xavier's College, Mumbai | 2014-2017 | First Class
+
+SKILLS
+Technical: Python (Pandas, NumPy, Scikit-learn), SQL (MySQL, PostgreSQL), R, Excel (Advanced), Power BI, Tableau, Apache Spark, Airflow
+ML/AI: Machine Learning, Statistical Modeling, Regression Analysis, Clustering, NLP
+Cloud/Tools: AWS (S3, Redshift), Docker, Git, Jira
+
+CERTIFICATIONS
+- AWS Certified Cloud Practitioner | 2022
+- Microsoft Power BI Data Analyst (PL-300) | 2021
+- Tableau Desktop Specialist | 2020
+
+ACHIEVEMENTS
+- Analyst of the Year Award at Infosys 2022
+- Speaker at PyData Mumbai 2023 - talk on Scaling ML Pipelines
+- Published 2 papers in business analytics journals

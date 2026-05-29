@@ -1,0 +1,28 @@
+Job Title: Business Analyst
+Company: Accenture Strategy
+Location: Mumbai / Hyderabad (Hybrid)
+
+About the Role:
+We are hiring an experienced Business Analyst to support strategy consulting engagements. You will work closely with client teams to understand business problems, gather requirements, and develop data-driven solutions.
+
+Key Responsibilities:
+- Elicit, document, and validate business and functional requirements from stakeholders
+- Conduct gap analysis, process mapping, and root cause analysis
+- Create BRDs, FRDs, use cases, user stories, and process flow diagrams
+- Analyze business data using SQL and Excel to identify improvement opportunities
+- Facilitate workshops and stakeholder interviews across business and technology teams
+- Track project progress and report status to project managers and clients
+- Support UAT planning and execution
+
+Required Skills:
+- 3-5 years of experience as a Business Analyst in IT or consulting
+- Strong requirements gathering and documentation skills
+- Proficiency in SQL and Excel for data analysis
+- Experience with Agile/Scrum methodologies
+- Excellent stakeholder management and communication skills
+
+Preferred Skills:
+- CBAP, CCBA, or PMI-PBA certification
+- Experience with Tableau or Power BI
+- Knowledge of SAP or Salesforce
+- MBA from a reputed institution

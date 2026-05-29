@@ -1,0 +1,30 @@
+Job Title: Data Analyst
+Company: TechCorp Analytics Pvt. Ltd.
+Location: Bangalore, India (Hybrid)
+
+About the Role:
+We are looking for a skilled Data Analyst to join our growing analytics team. You will be responsible for analyzing large datasets, creating dashboards, and providing actionable insights to business stakeholders.
+
+Key Responsibilities:
+- Analyze large datasets using SQL and Python to uncover trends, patterns, and business insights
+- Build and maintain interactive dashboards in Tableau or Power BI for stakeholders
+- Perform statistical analysis including regression, clustering, and A/B testing
+- Collaborate with business teams to translate data into actionable recommendations
+- Develop ETL pipelines to automate data extraction and reporting processes
+- Present findings and recommendations to senior management
+- Monitor data quality and ensure data integrity across systems
+
+Required Skills:
+- 2-4 years of experience in data analysis or business intelligence
+- Strong SQL skills - MySQL, PostgreSQL, or similar
+- Proficiency in Python (Pandas, NumPy, Matplotlib, Scikit-learn)
+- Experience with Tableau or Power BI for visualization
+- Knowledge of statistical analysis and machine learning concepts
+- Advanced Excel skills
+- Strong communication and presentation skills
+
+Preferred Skills:
+- Experience with cloud platforms (AWS, GCP, or Azure)
+- Knowledge of Apache Spark or Airflow for data pipelines
+- Familiarity with Git and version control
+- MBA or Master's in Statistics, Data Science, or related field
